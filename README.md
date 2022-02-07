@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarthak-Seth
 - 👀 I’m interested in competitive coding and leaning new skills.
 - 🌱 I’m currently learning desinging and analysis of algorithms.
-- 💞️ I’m looking to collaborate on webdev projects ans hackethons.
+- 💞️ I’m looking to collaborate on webdev projects and hackethons.
 - 📫 How to reach me [Instagram](https://www.instagram.com/sarthak___seth/)
 
 <!---
