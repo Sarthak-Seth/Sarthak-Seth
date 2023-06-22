@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sarthak-Seth
-- 👀 I’m interested in competitive coding and leaning new skills.
-- 🌱 I’m currently learning desinging and analysis of algorithms.
-- 💞️ I’m looking to collaborate on webdev projects and hackethons.
-- 📫 How to reach me [Instagram](https://www.instagram.com/sarthak___seth/)
+- 👀 I’m interested in Programming and learning new skills.
+- 🌱 I’m currently learning design and analysis of algorithms.
+- 💞️ I’m looking to collaborate on projects and hackathons.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sarthakseth21/)
 
 <!---
 Sarthak-Seth/Sarthak-Seth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
