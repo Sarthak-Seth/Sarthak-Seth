@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-seth&show_icons=true&locale=en&layout=compact" alt="sarthak-seth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-seth&show_icons=true&locale=en" alt="sarthak-seth" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-seth&" alt="sarthak-seth" /></p>
