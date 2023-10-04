@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sarthakseth21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthakseth21" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthak___seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak___seth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/decept_or" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="decept_or" height="30" width="40" /></a>
+<a href="https://leetcode.com/decept_Or/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="decept_or" height="30" width="40" /></a>
 <a href="https://discord.gg/BoltzMan#6132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BoltzMan#6132" height="30" width="40" /></a>
 </p>
 
